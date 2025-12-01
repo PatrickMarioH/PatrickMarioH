@@ -1,19 +1,19 @@
 # 👋 Hi, I’m Patrick Mario Hadiwinoto  
 
 🎓 Computer Engineering @ Purdue University (Graduating Dec 2025)  
-💻 Interested in software engineering, embedded systems, and full-stack development  
+💻 Interested In Software Engineering, Embedded Systems, Data Analytics and Full-Stack Development
 
 ---
 
 ## 🌟 About Me  
-I enjoy building projects that bring together **software and hardware**—from full-stack web apps to embedded systems. My experience includes **front-end and back-end internships** and being an **Undergraduate TA** teaching Excel, MATLAB, Python, and TI kits.  
+I Enjoy Building Projects That Combine Software and Hardware, From Full-Stack Web Apps to Embedded Systems. I Have Experience With Front-End and Back-End Development, as Well as Working With Microcontrollers, Sensors, and Real-Time Systems.
 
 ---
 
 ## 🚀 Featured Projects  
-- **Formula 1 Predictor** – ML-powered predictor using FastF1, scikit-learn, and real race data  
-- **Messenger App** – Full-stack chat app with React, Node.js, MongoDB, and Socket.IO  
-- **Chess Engine** – C++ OOP chess engine with move validation and terminal visualization  
+- **Formula 1 Predictor** – Machine Learning Model Using FastF1, Scikit-Learn, and Real Telemetry Data to Predict Race Outcomes
+- **Messenger App** – Full-Stack Real-Time Chat Application Built With React, Node.js, MongoDB, and Socket.IO
+- **Chess Engine** – C++ OOP Chess Engine Featuring Move Validation, Board Logic, and Terminal-Based Visualization
 
 ---
 
